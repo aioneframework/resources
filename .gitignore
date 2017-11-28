@@ -1,0 +1,5 @@
+# Gulp build
+/vendors
+/includes
+/vendor/
+/*.php
