@@ -40,177 +40,166 @@
 										<!-- .allery -->
 										<div class="gallery outline margin square animation-zoom gallery-columns-4 ">
 											<!-- .gallery-item -->
-											<div class="gallery-item ">
+											<div class="gallery-item">
 												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-1.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-1.jpg"/>
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-1.jpg"/>
 												</div>
 												<div class="gallery-caption">
 													<h3 class="mt-30 white">Image Title </h3>
 													<p>Image Description</p>
 												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-2.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-3.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-4.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-5.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-6.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-7.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-8.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-9.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-10.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-11.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-12.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-13.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-14.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-15.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
+											<!-- .gallery-item -->
+											<div class="gallery-item">
+												<div class="gallery-icon">
+													<img src="http://aioneframework.com/resources/images/gallery/placeholder.svg" data-src="http://aioneframework.com/resources/images/gallery/thumb/gallery-16.jpg"/>
+												</div>
+												<div class="gallery-caption">
+													<h3 class="mt-30 white">Image Title </h3>
+													<p>Image Description</p>
+												</div>
+											</div>
 
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-1.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-1.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-2.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-2.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-3.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-3.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-4.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-4.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-5.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-5.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-6.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-6.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-7.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-17.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-8.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-8.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-9.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-9.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-10.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-10.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-11.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-11.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-12.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-12.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-13.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-13.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-14.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-14.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-15.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-15.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											<!-- .gallery-item -->
-											<div class="gallery-item">
-												<div class="gallery-icon">
-													<img src="http://aioneframework.com/resources/images/gallery/thumb/gallery-16.jpg" data-src="http://aioneframework.com/resources/images/gallery/gallery-16.jpg"/>
-												</div>
-												<div class="gallery-caption">
-													<h3 class="mt-30 white">Image Title </h3>
-													<p>Image Description</p>
-												</div>
-											</div>
-											
 										</div>
 										<!-- .gallery -->
 
