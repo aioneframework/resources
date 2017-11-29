@@ -35,6 +35,38 @@
 
 							<div id="aione_page_content" class="">
 								<div class="aione-row">
+
+								<div class="ar p-20">
+	<div class="ac s100 m50 l25">
+	    <h3>Web Design</h3>
+	    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum egestas erat, non pretium tellus aliquam quis. Quisque erat nibh, pulvinar id turpis ut, interdum ultrices ipsum.</p>
+	</div>
+	<div class="ac s100 m50 l25">
+	    <h3>Web Design</h3>
+	    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum egestas erat, non pretium tellus aliquam quis. Quisque erat nibh, pulvinar id turpis ut, interdum ultrices ipsum.</p>
+	</div>
+	<div class="ac s100 m50 l25">
+	    <h3>Web Design</h3>
+	    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum egestas erat, non pretium tellus aliquam quis. Quisque erat nibh, pulvinar id turpis ut, interdum ultrices ipsum.</p>
+	</div>
+	<div class="ac s100 m50 l25">
+	    <h3>Web Design</h3>
+	    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum egestas erat, non pretium tellus aliquam quis. Quisque erat nibh, pulvinar id turpis ut, interdum ultrices ipsum.</p>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 									<div class="ar pv-20 ph-50">
 									<div class="ac s100 m100 l100">
 										<!-- .allery -->
