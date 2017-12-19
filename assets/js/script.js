@@ -16,6 +16,6 @@ $(document).ready(function() {
 		nav_item.toggleClass('nav-item-selected').siblings().removeClass('nav-item-selected');
 		var target = $(this).attr('href');
 		console.log('target'+target);
-		$("#"+target).addClass('active').siblings().removeClass('active');
+		$(target).addClass('active').siblings().removeClass('active');
 	});
 });
