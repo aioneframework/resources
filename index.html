@@ -19,44 +19,42 @@
 			<div id="aione_header" class="aione-header"></div><!-- .aione-header -->
 			<div id="aione_main" class="aione-main fullwidth">
 				<div class="wrapper">
-					<!--
-					<div id="aione_slider" class="aione-slider"></div>
-					--> 
-					<!-- .aione-slider -->
-					<div id="aione_pagetitle" class="aione-pagetitle">
-						<div class="wrapper">
-							<div class="aione-title">
-								<h3 class="aione-page-title">Links</h3>
-							</div><!-- .aione-title -->
-						</div> <!-- .wrapper -->
-					</div><!-- .aione-pagetitle -->
 					<div id="aione_content" class="aione-content">
 						<div class="wrapper">
 							<div id="aione_page_content" class="aione-page-content">
 								<div class="wrapper">
-									<section>
+									<section id="search_engine" class="active">
+										<div class="aione-title">
+											<h3 class="aione-section-title">Search Enigine</h3>
+										</div><!-- .aione-title -->
 										<div class="ar">
 											<div class="aione-search ar p-20 ac s100 m50 l50 aione-table">
 												<div class="field">
-													<input type="text" class="aione-search-input" data-search="aione-search-item age" placeholder="Search" />
+													<input type="text" class="aione-search-input" data-search="aione-search-item percentage" placeholder="Search" />
 												</div>
 												<div class="clear"></div>
 												<table class="compact">
 													<thead>
 														<tr>
 															<th class="aione-sort-button" data-sort="aione-search-item">Name</th>
-															<th class="aione-sort-button" data-sort="age">Age</th>
+															<th class="aione-sort-button" data-sort="percentage">Percentage</th>
 														</tr>
 													</thead>
 													<tbody class="aione-search-list">
-														<tr><td class="aione-search-item">Todd Jennings</td><td class="age">32</td></tr>
-														<tr><td class="aione-search-item">Megan Dawson</td><td class="age">27</td></tr>
-														<tr><td class="aione-search-item">Judith Perez</td><td class="age">28</td></tr>
-														<tr><td class="aione-search-item">Marguerite Evans</td><td class="age">34</td></tr>
-														<tr><td class="aione-search-item">Terry Perry</td><td class="age">36</td></tr>
-														<tr><td class="aione-search-item">Ismael Higgins</td><td class="age">26</td></tr>
-														<tr><td class="aione-search-item">Meghan Mcdaniel</td><td class="age">23</td></tr>
+														<tr><td class="aione-search-item"><a target="_blank" href="http://google.com">Google</a></td><td class="percentage">32</td></tr>
+														<tr><td class="aione-search-item"><a target="_blank" href="http://google.com">Bing</a></td><td class="percentage">27</td></tr>
+														<tr><td class="aione-search-item"><a target="_blank" href="http://google.com">Yahoo</a></td><td class="percentage">28</td></tr>
+														<tr><td class="aione-search-item"><a target="_blank" href="http://google.com">Google</a></td><td class="percentage">34</td></tr>
+														<tr><td class="aione-search-item"><a target="_blank" href="http://google.com">Google</a></td><td class="percentage">36</td></tr>
+														<tr><td class="aione-search-item"><a target="_blank" href="http://google.com">Google</a></td><td class="percentage">26</td></tr>
+														<tr><td class="aione-search-item"><a target="_blank" href="http://google.com">Google</a></td><td class="percentage">23</td></tr>
 													</tbody>
+													<tfoot>
+														<tr>
+															<td colspan="2" class="aione-align-right">Source: <a href="#" target="_blank">XYZ</a></td>
+														</tr>
+													</tfoot>
+
 												</table>
 											</div>
 											<div class="aione-search ar p-20 ac s100 m50 l50 aione-table">
@@ -84,7 +82,16 @@
 										</div>
 										
 									</section>
-									<section>
+									<section id="wordpress_themes">
+										<div class="aione-title">
+											<h3 class="aione-section-title">Wordpress Themes</h3>
+										</div><!-- .aione-title -->
+										
+									</section>
+									<section id="html_themes">
+										<div class="aione-title">
+											<h3 class="aione-section-title">HTML Themes</h3>
+										</div><!-- .aione-title -->
 										
 									</section>
 								</div>
@@ -98,5 +105,13 @@
 
 		</div><!-- .wrapper -->
 	</div><!-- .aione-wrapper -->
+<style type="text/css">
+	section{
+		display: none;
+	}
+	section.active{
+		display: block;
+	}
+</style>
 </body>
 </html>
